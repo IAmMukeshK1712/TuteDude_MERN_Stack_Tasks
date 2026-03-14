@@ -1,0 +1,18 @@
+.div {
+  width: 500px;
+  margin: 100px;
+
+  text-align: center;
+}
+.img {
+  width: 100%;
+}
+.btn {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: greenyellow;
+  background: linear-gradient(to right, rgb(245, 190, 11), rgb(29, 236, 29));
+  color: white;
+  border: 1px solid black;
+}
