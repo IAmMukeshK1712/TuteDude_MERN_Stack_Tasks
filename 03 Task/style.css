@@ -1,0 +1,45 @@
+body {
+  background-color: orangered;
+}
+.head {
+  color: darkblue;
+}
+#bglime {
+  background-color: rgb(56, 247, 56);
+}
+
+.head span {
+  color: red;
+}
+
+p {
+  color: white;
+  font-size: 17px;
+}
+#para {
+  color: green;
+}
+#font {
+  font-size: 22px;
+}
+
+p span {
+  color: black;
+  font-size: 25px;
+}
+.ul {
+  color: white;
+}
+.ul-yellow {
+  background-color: yellow;
+}
+.ul-blue {
+  background-color: purple;
+}
+
+.ol-purple {
+  color: rgb(106, 3, 106);
+}
+.ol-red {
+  color: red;
+}
